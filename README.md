@@ -30,7 +30,7 @@ this scaffold -- see Research notes below):
   narrowed scope, including facts this iteration could NOT verify (a
   Somali labor-law citation, a representative/director exclusion
   provision, and the Foreign Investment Law's own instrument number).
-- `src/statute/facts.cljc` -- general-law catalog: the Companies Law No.
+- `src/statute/facts.cljk` -- general-law catalog: the Companies Law No.
   18 (2019), MoCI Regulation No. 001/2021, the Beneficial Ownership
   Registration Regulation (2024), and a Prime Minister's Decree on Tax
   Compliance Certificates (No. 138, 2023) -- all read as PRIMARY TEXT
@@ -120,7 +120,7 @@ Alongside the market-entry / statute catalogs, this repo carries a
 `com-junkawasaki/root`) — national dishes, protected products, beverages,
 crafts, festivals and heritage sites for Somalia:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.cljk` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring `statute.facts`).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from
