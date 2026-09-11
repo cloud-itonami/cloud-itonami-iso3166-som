@@ -9,7 +9,7 @@ Independent public-sector market-entry compliance for Somalia.
   business with government'). 'Procurement Act 2020' and 'Public
   Procurement Regulations' are named on the Ministry's own site but
   this iteration could not independently read their own operative text
-  this session (see `src/marketentry/facts.cljc`).
+  this session (see `src/marketentry/facts.cljk`).
 - Company/business registration -- Companies Law No. 18 (26 December
   2019) + MoCI Regulation No. 001/2021, both read directly in full;
   Registrar of Companies, Ministry of Commerce and Industry.
@@ -20,7 +20,7 @@ Independent public-sector market-entry compliance for Somalia.
   Registrar within 30 working days, and penalizes non-compliance with a
   $50/day accruing fine plus trade-license suspension. This
   threshold-triggered timeliness mechanism is this catalog's flagship
-  check -- see `src/marketentry/facts.cljc` for the full citation trail
+  check -- see `src/marketentry/facts.cljk` for the full citation trail
   and confidence notes.
 - Tax Compliance Certificate (SHCN/TCC) -- required of government
   license/contract/consulting-fee engagements per a Prime Minister's
